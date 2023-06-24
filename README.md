@@ -1,3 +1,3 @@
-# tecblog/ projeto realizado por mim em curso de desenvimento web
+# tecblog/ projeto realizado por mim em um curso de desenvolvimento web
 html
 css
